@@ -2,7 +2,6 @@
 
 Sistema web de gestión preventiva de mantenimiento vial para trochas carrozables.
 
-
 ---
 
 ## 📋 Módulos de la plataforma

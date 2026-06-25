@@ -2,8 +2,6 @@
 
 Sistema web de gestión preventiva de mantenimiento vial para trochas carrozables.
 
-**Autor:** Frank Puma Mamani — Código 202220055
-**Docente:** Mg. Fernandez Choquepuma, Miguel Ángel
 
 ---
 

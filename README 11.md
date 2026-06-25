@@ -1,6 +1,6 @@
 # 🛣️ Plataforma de Gestión de Trochas Carrozables — Ocongate
 
-Sistema web de gestión preventiva de mantenimiento vial para trochas carrozables, desarrollado como parte del Proyecto Preprofesional (UTEC 2026-I), con la **Subgerencia de Gestión de Riesgos y Mantenimiento** de la **Municipalidad Distrital de Ocongate** (Quispicanchi, Cusco) como entidad de práctica.
+Sistema web de gestión preventiva de mantenimiento vial para trochas carrozables.
 
 **Autor:** Frank Puma Mamani — Código 202220055
 **Docente:** Mg. Fernandez Choquepuma, Miguel Ángel

@@ -1,0 +1,41 @@
+# ── Python ─────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# ── Entornos virtuales ────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Streamlit ──────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Base de datos local (persistencia SQLite) ─────────
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Archivos temporales / adjuntos generados en runtime ─
+*.tmp
+*.log
+/uploads/
+/exports/
+
+# ── Entornos de IDE / editor ───────────────────────────
+.vscode/
+.idea/
+*.swp
+.devcontainer/
+
+# ── Sistema operativo ──────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Variables de entorno ───────────────────────────────
+.env
